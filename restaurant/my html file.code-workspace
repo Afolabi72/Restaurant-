@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\my html file"
+		},
+		{
+			"path": "..\\project restaurant"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "restaurant"
+	}
+}
